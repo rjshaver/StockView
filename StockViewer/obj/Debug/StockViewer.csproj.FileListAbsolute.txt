@@ -1,0 +1,13 @@
+c:\users\randy\documents\visual studio 2013\Projects\StockView\StockViewer\bin\Debug\StockViewer.exe.config
+c:\users\randy\documents\visual studio 2013\Projects\StockView\StockViewer\bin\Debug\StockViewer.exe
+c:\users\randy\documents\visual studio 2013\Projects\StockView\StockViewer\bin\Debug\StockViewer.pdb
+c:\users\randy\documents\visual studio 2013\Projects\StockView\StockViewer\obj\Debug\StockViewer.Properties.Resources.resources
+c:\users\randy\documents\visual studio 2013\Projects\StockView\StockViewer\obj\Debug\StockViewer.csproj.GenerateResource.Cache
+c:\users\randy\documents\visual studio 2013\Projects\StockView\StockViewer\obj\Debug\StockViewer.exe
+c:\users\randy\documents\visual studio 2013\Projects\StockView\StockViewer\obj\Debug\StockViewer.pdb
+c:\users\randy\documents\visual studio 2013\Projects\StockView\StockViewer\obj\Debug\StockViewer.Form1.resources
+c:\users\randy\documents\visual studio 2013\Projects\StockView\StockViewer\obj\Debug\StockViewer.csprojResolveAssemblyReference.cache
+C:\Users\Randy\documents\visual studio 2013\Projects\StockView\StockViewer\bin\Debug\App.config
+C:\Users\Randy\documents\visual studio 2013\Projects\StockView\StockViewer\obj\Debug\StockViewer.FormAddMovingAverage.resources
+C:\Users\Randy\documents\visual studio 2013\Projects\StockView\StockViewer\bin\Debug\StockViewer.exe.CodeAnalysisLog.xml
+C:\Users\Randy\documents\visual studio 2013\Projects\StockView\StockViewer\bin\Debug\StockViewer.exe.lastcodeanalysissucceeded
